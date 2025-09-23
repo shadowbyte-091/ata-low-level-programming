@@ -1,0 +1,7 @@
+C is important because it is the foundation of many modern languages, 
+
+it is portable, efficient, used 
+in operating systems and embedded systems, 
+
+and it provides both low-level hardware control and 
+high-level structured programming

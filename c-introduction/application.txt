@@ -1,0 +1,9 @@
+UNIX Operating System
+
+Linux Kernel
+
+Windows Operating System (core parts)
+
+Oracle Database
+
+Git Version Control System
