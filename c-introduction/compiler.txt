@@ -1,0 +1,4 @@
+A compiler translates source code written in a high-level programming language like C into machine code (binary) that the computer can execute. 
+It also checks for syntax errors and optimizes the program for better performance. 
+Without a compiler, the CPU cannot understand the instructions written in C directly.
+
