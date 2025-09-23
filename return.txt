@@ -1,0 +1,4 @@
+When main() returns 1 instead of 0, it tells the operating system that the program did not run successfully. 
+A return value of 0 means success, while a non-zero value (like 1) usually indicates an error or abnormal termination. 
+Scripts or other programs that run this program can check the return value to decide what happened.
+
