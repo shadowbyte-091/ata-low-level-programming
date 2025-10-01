@@ -1,0 +1,13 @@
+1. Preprocessing: 
+   The preprocessor handles things like #include and #define before actual compilation. 
+   It expands macros and includes header files into the code.
+
+2. Compiling: 
+   The compiler translates the preprocessed C code into assembly code for the target machine.
+
+3. Assembling: 
+   The assembler converts the assembly code into machine code (object files, e.g. .o).
+
+4. Linking: 
+   The linker combines one or more object files with libraries to produce the final executable program.
+
