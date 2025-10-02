@@ -1,7 +1,0 @@
-#include <stdio.h> tells the compiler to look for the header file in the standard system directories. 
-It is used for standard library headers like stdio.h, stdlib.h, math.h, etc.
-
-#include "stdio.h" tells the compiler to first look for the header file in the current working directory. 
-If it is not found there, it will then search the standard system directories.
-It is usually used for user-defined or local header files.
-
